@@ -1,0 +1,11 @@
+.velixid-button-primary {
+  padding: 8px 15px;
+  background: rgb(9, 11, 35);
+  color: rgb(255, 255, 255);
+  font-family: Helvetica, Lato, Arial;
+  font-size: 12px;
+  border: 0px solid;
+  border-radius: 4px;
+  outline: none;
+  cursor: pointer;
+}

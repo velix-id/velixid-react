@@ -105,5 +105,16 @@
   },
   "eslintConfig": {
     "extends": "react-app"
-  }
+  },
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/velix-id/velixid-react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/velix-id/velixid-react/issues"
+  },
+  "homepage": "https://github.com/velix-id/velixid-react#readme"
 }

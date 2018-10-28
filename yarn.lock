@@ -8261,9 +8261,9 @@ vary@~1.1.2:
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/vary/-/vary-1.1.2.tgz#2299f02c6ded30d4a5961b0b9f74524a18f634fc"
 
-velixid.js@^0.1.0:
-  version "0.1.10"
-  resolved "https://registry.yarnpkg.com/velixid.js/-/velixid.js-0.1.10.tgz#dfe6d1c59e6c98b506de202057caf90920c8ec43"
+velixid.js@^0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/velixid.js/-/velixid.js-0.2.0.tgz#20088e3ae83c4b5eed8e8f09017c6a503078dd4e"
 
 velocity-animate@^1.4.0:
   version "1.5.2"
